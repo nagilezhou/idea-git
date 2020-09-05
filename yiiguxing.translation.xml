@@ -1,0 +1,17 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Failed to deploy artifacts: Could not transfer artifact com.aliyun.unit.router:msha-sdk:pom:1.0.4-public-mix-20200821.033255-3 from/to snapshots (http://mvnrepo.alibaba-inc.com/mvn/snapshots): Failed to transfer file: http://mvnrepo.alibaba-inc.com/mvn/snapshots/com/aliyun/unit/router/msha-sdk/1.0.4-public-mix-SNAPSHOT/msha-sdk-1.0.4-public-mix-20200821.033255-3.pom. Return code is: 401, ReasonPhrase: Unauthorized." />
+      <item value="Missing invocation to mocked type at this point; please make sure such invocations appear only after the declaration of a suitable mock field or parameter" />
+      <item value="if this socket has an associated channel, the channel is in * non-blocking mode, and there is no connection ready to be * accepted" />
+      <item value="associated" />
+      <item value="Listens for a connection to be made to this socket and accepts * it. The method blocks until a connection is made. * * &lt;p&gt;A new Socket {@code s} is created and, if there * is a security manager, * the security manager's {@code checkAccept} method is called * with {@code s.getInetAddress().getHostAddress()} and * {@code s.getPort()} * as its arguments to ensure the operation is allowed. * This could result in a SecurityException. * * @exception IOException if an I/O error occurs when waiting for a * connection. * @exception SecurityException if a security manager exists and its * {@code checkAccept} method doesn't allow the operation. * @exception SocketTimeoutException if a timeout was previously set with setSoTimeout and * the timeout has been reached. * @exception java.nio.channels.IllegalBlockingModeException * if this socket has an associated channel, the channel is in * non-blocking mode, and there is no connection ready to be * accepted *" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
+  </component>
+</application>
