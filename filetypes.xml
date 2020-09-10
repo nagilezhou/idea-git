@@ -9,6 +9,9 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
+      <mapping pattern="dsv" type="Properties" />
+      <mapping pattern="db" type="Properties" />
+      <mapping pattern="dbTypeMsg" type="Properties" />
     </extensionMap>
   </component>
 </application>
