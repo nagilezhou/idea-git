@@ -5,6 +5,7 @@
       <mapping pattern="DesribeSyncJobStatusList.json" type="JSON" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="dbTypeMsg.properties" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
