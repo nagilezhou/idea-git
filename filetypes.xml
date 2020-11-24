@@ -12,6 +12,7 @@
       <mapping pattern="dsv" type="Properties" />
       <mapping pattern="db" type="Properties" />
       <mapping pattern="dbTypeMsg" type="Properties" />
+      <mapping pattern="experimentEnum" type="YAML" />
       <mapping pattern="MultiInstanceData" type="YAML" />
     </extensionMap>
   </component>
