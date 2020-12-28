@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="asynchronous" />
       <item value="maintain" />
       <item value="Number of INSERT target columns (7) does not equal number of source items (6)." />
       <item value="repetition" />
@@ -51,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
