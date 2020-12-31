@@ -4,20 +4,14 @@
     <property name="created">2019-12-18T14:31:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-12-30T21:04:01</property>
+    <property name="modified">2019-12-18T14:33:15</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8f9d6a" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -2286,7 +2280,7 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="47bc9b" />
@@ -2847,8 +2841,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="cf6a4c" />
