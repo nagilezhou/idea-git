@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Given a list of daily temperatures T, return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temper ature. If there is no future day for which this is possible, put 0 instead. For example, given the list of temperatures T = [73, 74, 75, 71, 69, 72, 76, 7 3], your output should be [1, 1, 4, 2, 1, 1, 0, 0]." />
       <item value="is Equal Collection" />
       <item value="Compares the specified object with this set for equality. Returns * &lt;tt&gt;true&lt;/tt&gt; if the specified object is also a set, the two sets * have the same size, and every member of the specified set is * contained in this set (or equivalently, every member of this set is * contained in the specified set). This definition ensures that the * equals method works properly across different implementations of the * set interface." />
       <item value="delegate" />
@@ -50,16 +51,15 @@
       <item value="Failed to deploy artifacts: Could not transfer artifact com.aliyun.unit.router:msha-sdk:pom:1.0.4-public-mix-20200821.033255-3 from/to snapshots (http://mvnrepo.alibaba-inc.com/mvn/snapshots): Failed to transfer file: http://mvnrepo.alibaba-inc.com/mvn/snapshots/com/aliyun/unit/router/msha-sdk/1.0.4-public-mix-SNAPSHOT/msha-sdk-1.0.4-public-mix-20200821.033255-3.pom. Return code is: 401, ReasonPhrase: Unauthorized." />
       <item value="Missing invocation to mocked type at this point; please make sure such invocations appear only after the declaration of a suitable mock field or parameter" />
       <item value="if this socket has an associated channel, the channel is in * non-blocking mode, and there is no connection ready to be * accepted" />
-      <item value="associated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="51" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615809423975" />
+    <option name="lastTrimTime" value="1619439422423" />
   </component>
 </application>
