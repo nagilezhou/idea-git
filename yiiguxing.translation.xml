@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class provides services needed to instrument Java programming language code. Instrumentation is the addition of byte-codes to methods for the purpose of gathering data to be utilized by tools. Since the changes are purely additive, these tools do not modify application state or behavior. Examples of such benign tools include monitoring agents, profilers, coverage analyzers, and event loggers. &lt;P&gt; There are two ways to obtain an instance of the &lt;code&gt;Instrumentation&lt;code&gt; interface: &lt;ol&gt; &lt;li&gt;&lt;p&gt; When a JVM is launched in a way that indicates an agent class. In that case an &lt;code&gt;Instrumentation&lt;code&gt; instance is passed to the &lt;code&gt;premain&lt;code&gt; method of the agent class. &lt;p&gt;&lt;li&gt; &lt;li&gt;&lt;p&gt; When a JVM provides a mechanism to start agents sometime after the JVM is launched. In that case an &lt;code&gt;Instrumentation&lt;code&gt; instance is passed to the &lt;code&gt;agentmain&lt;code&gt; method of the agent code. &lt;p&gt; &lt;li&gt; &lt;ol&gt; &lt;p&gt; These mechanisms are described in the {@linkplain java.lang.instrument package specification}. &lt;p&gt; Once an agent acquires an &lt;code&gt;Instrumentation&lt;code&gt; instance, the agent may call methods on the instance at any time." />
       <item value="Skip processing directly once interceptor returns false." />
       <item value="true if interceptor chain is allowed to proceed; false otherwise." />
       <item value="Execute hook-in logic after business processing. Potential execution result can be acquired through inspecting" />
@@ -50,12 +51,11 @@
       <item value="GUARD" />
       <item value="guard" />
       <item value="Metrics" />
-      <item value="* Method for changing state of an on/off deserialization feature for * this object mapper." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
