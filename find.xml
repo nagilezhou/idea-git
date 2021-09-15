@@ -14,5 +14,6 @@
     <mask>log*.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>c're</mask>
   </component>
 </application>
