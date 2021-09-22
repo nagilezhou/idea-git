@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Registers the supplied transformer. All future class definitions will be seen by the transformer, except definitions of classes upon which any registered transformer is dependent. The transformer is called when classes are loaded, when they are {@linkplain redefineClasses redefined}. and if &lt;code&gt;canRetransform&lt;code&gt; is true, when they are {@linkplain retransformClasses retransformed}. See {@link java.lang.instrument.ClassFileTransformertransform ClassFileTransformer.transform} for the order of transform calls. If a transformer throws an exception during execution, the JVM will still call the other registered transformers in order. The same transformer may be added more than once, but it is strongly discouraged -- avoid this by creating a new instance of transformer class. &lt;P&gt; This method is intended for use in instrumentation, as described in the {@linkplain Instrumentation class specification}." />
       <item value="Finds all the resources with the given name. A resource is some data (images, audio, text, etc) that can be accessed by class code in a way that is independent of the location of the code. &lt;p&gt;The name of a resource is a &lt;tt&gt;&lt;tt&gt;-separated path name that identifies the resource. &lt;p&gt; The search order is described in the documentation for {@link getResource(String)}. &lt;p&gt; @apiNote When overriding this method it is recommended that an implementation ensures that any delegation is consistent with the {@link getResource(java.lang.String) getResource(String)} method. This should ensure that the first element returned by the Enumeration's {@code nextElement} method is the same resource that the {@code getResource(String)} method would return. @param name The resource name @return An enumeration of {@link java.net.URL &lt;tt&gt;URL&lt;tt&gt;} objects for the resource. If no resources could be found, the enumeration will be empty. Resources that the class loader doesn't have access to will not be in the enumeration." />
       <item value="This class provides services needed to instrument Java programming language code. Instrumentation is the addition of byte-codes to methods for the purpose of gathering data to be utilized by tools. Since the changes are purely additive, these tools do not modify application state or behavior. Examples of such benign tools include monitoring agents, profilers, coverage analyzers, and event loggers. &lt;P&gt; There are two ways to obtain an instance of the &lt;code&gt;Instrumentation&lt;code&gt; interface: &lt;ol&gt; &lt;li&gt;&lt;p&gt; When a JVM is launched in a way that indicates an agent class. In that case an &lt;code&gt;Instrumentation&lt;code&gt; instance is passed to the &lt;code&gt;premain&lt;code&gt; method of the agent class. &lt;p&gt;&lt;li&gt; &lt;li&gt;&lt;p&gt; When a JVM provides a mechanism to start agents sometime after the JVM is launched. In that case an &lt;code&gt;Instrumentation&lt;code&gt; instance is passed to the &lt;code&gt;agentmain&lt;code&gt; method of the agent code. &lt;p&gt; &lt;li&gt; &lt;ol&gt; &lt;p&gt; These mechanisms are described in the {@linkplain java.lang.instrument package specification}. &lt;p&gt; Once an agent acquires an &lt;code&gt;Instrumentation&lt;code&gt; instance, the agent may call methods on the instance at any time." />
       <item value="Skip processing directly once interceptor returns false." />
@@ -50,7 +51,6 @@
       <item value="&lt;p&gt;It is possible, and in fact common, for a base class to * implement AutoCloseable even though not all of its subclasses or * instances will hold releasable resources. For code that must operate * in complete generality, or when it is known that the {@code AutoCloseable} * instance requires resource release, it is recommended to use {@code * try}-with-resources constructions. However, when using facilities such as * {@link java.util.stream.Stream} that support both I/O-based and * non-I/O-based forms, {@code try}-with-resources blocks are in * general unnecessary when using non-I/O-based forms." />
       <item value="Metric" />
       <item value="GUARD" />
-      <item value="guard" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,6 +60,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629721750744" />
+    <option name="lastTrimTime" value="1632312549367" />
   </component>
 </application>
