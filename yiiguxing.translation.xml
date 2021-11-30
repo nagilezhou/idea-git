@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Don't allow anyone to instantiate an AccessController private AccessController() { } Performs the specified {@code PrivilegedAction} with privileges enabled. The action is performed with &lt;i&gt;all&lt;i&gt; of the permissions possessed by the caller's protection domain. &lt;p&gt; If the action's {@code run} method throws an (unchecked) exception, it will propagate through this method. &lt;p&gt; Note that any DomainCombiner associated with the current AccessControlContext will be ignored while the action is performed. @param &lt;T&gt; the type of the value returned by the PrivilegedAction's {@code run} method. @param action the action to be performed. @return the value returned by the action's {@code run} method. @exception NullPointerException if the action is {@code null}" />
       <item value="Retrieves whether the driver thinks that it can open a connection to the given URL. Typically drivers will return &lt;code&gt;true&lt;code&gt; if they understand the sub-protocol specified in the URL and &lt;code&gt;false&lt;code&gt; if they do not." />
       <item value="local Unit Flag" />
       <item value="Registers the supplied transformer. All future class definitions will be seen by the transformer, except definitions of classes upon which any registered transformer is dependent. The transformer is called when classes are loaded, when they are {@linkplain redefineClasses redefined}. and if &lt;code&gt;canRetransform&lt;code&gt; is true, when they are {@linkplain retransformClasses retransformed}. See {@link java.lang.instrument.ClassFileTransformertransform ClassFileTransformer.transform} for the order of transform calls. If a transformer throws an exception during execution, the JVM will still call the other registered transformers in order. The same transformer may be added more than once, but it is strongly discouraged -- avoid this by creating a new instance of transformer class. &lt;P&gt; This method is intended for use in instrumentation, as described in the {@linkplain Instrumentation class specification}." />
@@ -50,7 +51,6 @@
       <item value="multiple" />
       <item value="rather" />
       <item value="interesting" />
-      <item value="&lt;p&gt;It is possible, and in fact common, for a base class to * implement AutoCloseable even though not all of its subclasses or * instances will hold releasable resources. For code that must operate * in complete generality, or when it is known that the {@code AutoCloseable} * instance requires resource release, it is recommended to use {@code * try}-with-resources constructions. However, when using facilities such as * {@link java.util.stream.Stream} that support both I/O-based and * non-I/O-based forms, {@code try}-with-resources blocks are in * general unnecessary when using non-I/O-based forms." />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,6 +60,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636450162930" />
+    <option name="lastTrimTime" value="1638261143496" />
   </component>
 </application>
