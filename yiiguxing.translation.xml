@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns true if the connection has not been closed and is still valid. The driver shall submit a query on the connection or use some other mechanism that positively verifies the connection is still valid when this method is called. &lt;p&gt; The query submitted by the driver to validate the connection shall be executed in the context of the current transaction. @param timeout - The time in seconds to wait for the database operation used to validate the connection to complete. If the timeout period expires before the operation completes, this method returns false. A value of 0 indicates a timeout is not applied to the database operation." />
       <item value="Don't allow anyone to instantiate an AccessController private AccessController() { } Performs the specified {@code PrivilegedAction} with privileges enabled. The action is performed with &lt;i&gt;all&lt;i&gt; of the permissions possessed by the caller's protection domain. &lt;p&gt; If the action's {@code run} method throws an (unchecked) exception, it will propagate through this method. &lt;p&gt; Note that any DomainCombiner associated with the current AccessControlContext will be ignored while the action is performed. @param &lt;T&gt; the type of the value returned by the PrivilegedAction's {@code run} method. @param action the action to be performed. @return the value returned by the action's {@code run} method. @exception NullPointerException if the action is {@code null}" />
       <item value="Retrieves whether the driver thinks that it can open a connection to the given URL. Typically drivers will return &lt;code&gt;true&lt;code&gt; if they understand the sub-protocol specified in the URL and &lt;code&gt;false&lt;code&gt; if they do not." />
       <item value="local Unit Flag" />
@@ -50,7 +51,6 @@
       <item value="/Given an array of integers nums and an integer target, return indices of the t //wo numbers such that they add up to target." />
       <item value="multiple" />
       <item value="rather" />
-      <item value="interesting" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,6 +60,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638261143496" />
+    <option name="lastTrimTime" value="1639386943928" />
   </component>
 </application>
