@@ -16,6 +16,7 @@
       <mapping pattern="dbTypeMsg" type="Properties" />
       <mapping pattern="experimentEnum" type="YAML" />
       <mapping pattern="MultiInstanceData" type="YAML" />
+      <mapping pattern="dockercfg" type="YAML" />
     </extensionMap>
   </component>
 </application>
