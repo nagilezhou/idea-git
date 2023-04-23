@@ -66,13 +66,26 @@
     <option name="lastTrimTime" value="1682229044152" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="770" />
+    <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="roll in to" />
+      <item value="further" />
+      <item value="futhur" />
+      <item value="commercial venture" />
+      <item value="commerical venture" />
+      <item value="assamble" />
+      <item value="unravel" />
+      <item value="unreval" />
+      <item value="query User Id" />
       <item value="request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="RUSSIAN" value="1" />
       </map>
     </option>
   </component>
