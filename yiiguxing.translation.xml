@@ -70,6 +70,13 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="The maximum queue length for incoming connection indications (a request to connect) is set to 50" />
+      <item value="incoming" />
+      <item value="indication" />
+      <item value="indications" />
+      <item value="retrieved" />
+      <item value="typically from an ephemeral port range" />
+      <item value="ephemeral" />
       <item value="toggle" />
       <item value="fuel" />
       <item value="particular" />
@@ -96,8 +103,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="RUSSIAN" value="1" />
       </map>
     </option>
