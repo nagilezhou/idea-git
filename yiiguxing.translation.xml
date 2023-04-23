@@ -70,6 +70,11 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="disclose" />
+      <item value="杀掉" />
+      <item value="aviation" />
+      <item value="Swap" />
+      <item value="fancy a drink" />
       <item value="roll in to" />
       <item value="further" />
       <item value="futhur" />
@@ -83,8 +88,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
         <entry key="RUSSIAN" value="1" />
       </map>
     </option>
