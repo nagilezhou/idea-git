@@ -71,6 +71,7 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Privileges" />
       <item value="在xx是不是需要加班？" />
       <item value=";在xx是否需要加班？" />
       <item value="abroad" />
@@ -112,7 +113,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="FRENCH" value="3" />
         <entry key="RUSSIAN" value="1" />
       </map>
