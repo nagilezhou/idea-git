@@ -70,6 +70,16 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="sort of" />
+      <item value="sort of like" />
+      <item value="a whole bunch of" />
+      <item value="融化" />
+      <item value="融入" />
+      <item value="sort of like twitter" />
+      <item value="种类" />
+      <item value="inspire" />
+      <item value="revial" />
+      <item value="reval" />
       <item value="electronic" />
       <item value="electric" />
       <item value="electrical" />
@@ -110,21 +120,12 @@
       <item value="billion" />
       <item value="disclose" />
       <item value="杀掉" />
-      <item value="aviation" />
-      <item value="Swap" />
-      <item value="fancy a drink" />
-      <item value="roll in to" />
-      <item value="further" />
-      <item value="futhur" />
-      <item value="commercial venture" />
-      <item value="commerical venture" />
-      <item value="assamble" />
-      <item value="unravel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
+        <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATVIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
