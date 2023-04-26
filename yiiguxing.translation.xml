@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="career" />
       <item value="viechl" />
       <item value="Detect" />
       <item value="sort of" />
@@ -119,12 +120,11 @@
       <item value="ref" />
       <item value="check in account" />
       <item value="persistent" />
-      <item value="billion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATVIAN" value="1" />
