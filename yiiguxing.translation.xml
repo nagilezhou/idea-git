@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="tise" />
       <item value="prascik" />
       <item value="extendtion" />
       <item value="been" />
@@ -119,7 +120,6 @@
       <item value="abroad" />
       <item value="aborad" />
       <item value="出国" />
-      <item value="abord" />
     </histories>
     <option name="languageScores">
       <map>
@@ -128,6 +128,7 @@
         <entry key="ENGLISH" value="76" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
+        <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATVIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
