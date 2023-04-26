@@ -70,6 +70,12 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="get down" />
+      <item value="play rough" />
+      <item value="rough" />
+      <item value="defend" />
+      <item value="favour" />
+      <item value="persistent" />
       <item value="career" />
       <item value="viechl" />
       <item value="Detect" />
@@ -114,17 +120,11 @@
       <item value="typically from an ephemeral port range" />
       <item value="ephemeral" />
       <item value="toggle" />
-      <item value="fuel" />
-      <item value="particular" />
-      <item value="take way" />
-      <item value="ref" />
-      <item value="check in account" />
-      <item value="persistent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="LATVIAN" value="1" />
