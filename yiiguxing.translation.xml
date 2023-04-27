@@ -70,6 +70,13 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="not much" />
+      <item value="whats up" />
+      <item value="no wonder" />
+      <item value="look up" />
+      <item value="推迟" />
+      <item value="convenient" />
+      <item value="in convenient" />
       <item value="manufacturuer" />
       <item value="manufacturual" />
       <item value="manufacture" />
@@ -113,19 +120,12 @@
       <item value="grand" />
       <item value="tise" />
       <item value="prascik" />
-      <item value="extendtion" />
-      <item value="been" />
-      <item value="pervent" />
-      <item value="governer" />
-      <item value="stand it my way" />
-      <item value="Registry" />
-      <item value="snap" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
