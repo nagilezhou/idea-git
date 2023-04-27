@@ -70,6 +70,9 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="holk up" />
+      <item value="BP" />
+      <item value="CPR" />
       <item value="flnue" />
       <item value="flune" />
       <item value="panic" />
@@ -117,15 +120,12 @@
       <item value="电子产品" />
       <item value="vehicle" />
       <item value="viechcial" />
-      <item value="I bet I'm going to get some money" />
-      <item value="bet" />
-      <item value="Auth" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
