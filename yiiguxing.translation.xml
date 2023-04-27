@@ -70,6 +70,11 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="any given time" />
+      <item value="lay off" />
+      <item value="redundant" />
+      <item value="tragic" />
+      <item value="lead time" />
       <item value="critical condition" />
       <item value="hook up" />
       <item value="engage in" />
@@ -115,17 +120,12 @@
       <item value="valid" />
       <item value="get down" />
       <item value="play rough" />
-      <item value="rough" />
-      <item value="defend" />
-      <item value="favour" />
-      <item value="persistent" />
-      <item value="career" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
