@@ -70,6 +70,11 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="deposited" />
+      <item value="checkbook" />
+      <item value="overdraft" />
+      <item value="tranzation" />
+      <item value="postpone" />
       <item value="not much" />
       <item value="whats up" />
       <item value="no wonder" />
@@ -115,17 +120,12 @@
       <item value="selfish" />
       <item value="mess it up" />
       <item value="lovely fighter" />
-      <item value="fire burn the street" />
-      <item value="barely even" />
-      <item value="grand" />
-      <item value="tise" />
-      <item value="prascik" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
