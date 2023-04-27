@@ -70,6 +70,24 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="critical condition" />
+      <item value="hook up" />
+      <item value="engage in" />
+      <item value="Volume" />
+      <item value="product requires no electrical hook-up" />
+      <item value="electrical" />
+      <item value="he had a phone hook-up with his bosses later that day" />
+      <item value="bother" />
+      <item value="&quot;she's hurt that her hook-up didn't even bother to stick around long enough to say good morning&quot;" />
+      <item value="casual" />
+      <item value="casual sexual encounter." />
+      <item value="stick" />
+      <item value="stick around" />
+      <item value="cooperating" />
+      <item value="communications" />
+      <item value="broadcasting" />
+      <item value="intensive cure unit" />
+      <item value="volume" />
       <item value="holk up" />
       <item value="BP" />
       <item value="CPR" />
@@ -102,30 +120,12 @@
       <item value="favour" />
       <item value="persistent" />
       <item value="career" />
-      <item value="viechl" />
-      <item value="Detect" />
-      <item value="sort of" />
-      <item value="sort of like" />
-      <item value="a whole bunch of" />
-      <item value="融化" />
-      <item value="融入" />
-      <item value="sort of like twitter" />
-      <item value="种类" />
-      <item value="inspire" />
-      <item value="revial" />
-      <item value="reval" />
-      <item value="electronic" />
-      <item value="electric" />
-      <item value="electrical" />
-      <item value="电子产品" />
-      <item value="vehicle" />
-      <item value="viechcial" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
