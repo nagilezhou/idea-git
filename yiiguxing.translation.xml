@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="mess it up" />
       <item value="lovely fighter" />
       <item value="fire burn the street" />
       <item value="barely even" />
@@ -119,13 +120,12 @@
       <item value="coach" />
       <item value="cursion" />
       <item value="Privileges" />
-      <item value="在xx是不是需要加班？" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
