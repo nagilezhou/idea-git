@@ -70,6 +70,9 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="take a chance" />
+      <item value="once in a life time" />
+      <item value="one thing in life time" />
       <item value="deposited" />
       <item value="checkbook" />
       <item value="overdraft" />
@@ -117,15 +120,12 @@
       <item value="broke out" />
       <item value="pull yourself together" />
       <item value="fire fighter" />
-      <item value="selfish" />
-      <item value="mess it up" />
-      <item value="lovely fighter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
