@@ -70,6 +70,13 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="flnue" />
+      <item value="flune" />
+      <item value="panic" />
+      <item value="broke out" />
+      <item value="pull yourself together" />
+      <item value="fire fighter" />
+      <item value="selfish" />
       <item value="mess it up" />
       <item value="lovely fighter" />
       <item value="fire burn the street" />
@@ -113,19 +120,12 @@
       <item value="I bet I'm going to get some money" />
       <item value="bet" />
       <item value="Auth" />
-      <item value="burden" />
-      <item value="get hold" />
-      <item value="unreliable" />
-      <item value="productive" />
-      <item value="coach" />
-      <item value="cursion" />
-      <item value="Privileges" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
