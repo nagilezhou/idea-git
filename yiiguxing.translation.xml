@@ -70,7 +70,12 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="rumar" />
+      <item value="pointer" />
+      <item value="poison" />
+      <item value="position" />
       <item value="concert" />
+      <item value="borrow" />
       <item value="consort" />
       <item value="take a chance" />
       <item value="once in a life time" />
@@ -115,22 +120,18 @@
       <item value="volume" />
       <item value="holk up" />
       <item value="BP" />
-      <item value="CPR" />
-      <item value="flnue" />
-      <item value="flune" />
-      <item value="panic" />
-      <item value="broke out" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="134" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
         <entry key="RUSSIAN" value="1" />
       </map>
     </option>
