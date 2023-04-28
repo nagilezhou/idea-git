@@ -70,7 +70,19 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="prince" />
+      <item value="贵的" />
+      <item value="pricy" />
+      <item value="price" />
+      <item value="bargain" />
+      <item value="bargin" />
+      <item value="flavour" />
+      <item value="rumvour" />
+      <item value="savor" />
+      <item value="savour" />
       <item value="rumar" />
+      <item value="味道" />
+      <item value="pass out" />
       <item value="pointer" />
       <item value="poison" />
       <item value="position" />
@@ -108,30 +120,18 @@
       <item value="electrical" />
       <item value="he had a phone hook-up with his bosses later that day" />
       <item value="bother" />
-      <item value="&quot;she's hurt that her hook-up didn't even bother to stick around long enough to say good morning&quot;" />
-      <item value="casual" />
-      <item value="casual sexual encounter." />
-      <item value="stick" />
-      <item value="stick around" />
-      <item value="cooperating" />
-      <item value="communications" />
-      <item value="broadcasting" />
-      <item value="intensive cure unit" />
-      <item value="volume" />
-      <item value="holk up" />
-      <item value="BP" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="HAITIAN_CREOLE" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LATVIAN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="RUSSIAN" value="1" />
       </map>
     </option>
