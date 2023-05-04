@@ -70,6 +70,11 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="accurate" />
+      <item value="conceive" />
+      <item value="conceived" />
+      <item value="complicated" />
+      <item value="middle of none aware" />
       <item value="sou" />
       <item value="soux" />
       <item value="sous" />
@@ -115,17 +120,12 @@
       <item value="convenient" />
       <item value="in convenient" />
       <item value="manufacturuer" />
-      <item value="manufacturual" />
-      <item value="manufacture" />
-      <item value="any given time" />
-      <item value="lay off" />
-      <item value="redundant" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
