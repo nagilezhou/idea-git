@@ -71,6 +71,7 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="frank" />
       <item value="character" />
       <item value="pretending" />
       <item value="the cats out of the bed" />
@@ -120,13 +121,12 @@
       <item value="middle of none aware" />
       <item value="sou" />
       <item value="soux" />
-      <item value="sous" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
