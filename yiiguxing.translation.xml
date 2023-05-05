@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="visa" />
       <item value="accurate" />
       <item value="conceive" />
       <item value="conceived" />
@@ -119,13 +120,12 @@
       <item value="推迟" />
       <item value="convenient" />
       <item value="in convenient" />
-      <item value="manufacturuer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
