@@ -71,6 +71,9 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="character" />
+      <item value="pretending" />
+      <item value="the cats out of the bed" />
       <item value="galloble" />
       <item value="drag across the floor" />
       <item value="practice" />
@@ -118,15 +121,12 @@
       <item value="sou" />
       <item value="soux" />
       <item value="sous" />
-      <item value="breast" />
-      <item value="pineapple" />
-      <item value="run for" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
