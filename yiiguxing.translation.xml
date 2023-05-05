@@ -71,6 +71,16 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="right away" />
+      <item value="right this way" />
+      <item value="momentarily" />
+      <item value="polite" />
+      <item value="礼貌" />
+      <item value="pleg" />
+      <item value="certainly" />
+      <item value="楼梯" />
+      <item value="hence" />
+      <item value="pursuit" />
       <item value="post" />
       <item value="add in" />
       <item value="with-honors" />
@@ -92,7 +102,6 @@
       <item value="宽广的" />
       <item value="bread" />
       <item value="strive" />
-      <item value="pursuit" />
       <item value="track the study" />
       <item value="course of study" />
       <item value="specialize" />
@@ -112,25 +121,17 @@
       <item value="anker" />
       <item value="towards" />
       <item value="straight" />
-      <item value="strike towards" />
-      <item value="strike" />
-      <item value="awesome" />
-      <item value="for a little while" />
-      <item value="deep" />
-      <item value="backstroke" />
-      <item value="stroke" />
-      <item value="breast" />
-      <item value="breaststroke" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
+        <entry key="HMONG" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="LATVIAN" value="1" />
