@@ -71,6 +71,13 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="suspend" />
+      <item value="stole" />
+      <item value="lavatory" />
+      <item value="卫生间" />
+      <item value="安全带" />
+      <item value="fasten" />
+      <item value="belts" />
       <item value="flight attendant" />
       <item value="flight attendants" />
       <item value="flight attenders" />
@@ -114,19 +121,12 @@
       <item value="addict" />
       <item value="沉迷" />
       <item value="tenant" />
-      <item value="prince" />
-      <item value="贵的" />
-      <item value="pricy" />
-      <item value="price" />
-      <item value="bargain" />
-      <item value="bargin" />
-      <item value="flavour" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
