@@ -71,6 +71,9 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="english" />
+      <item value="study" />
+      <item value="你英语学习怎么样了" />
       <item value="right away" />
       <item value="right this way" />
       <item value="momentarily" />
@@ -118,16 +121,13 @@
       <item value="anchor" />
       <item value="anchoe" />
       <item value="anchole" />
-      <item value="anker" />
-      <item value="towards" />
-      <item value="straight" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="258" />
+        <entry key="ENGLISH" value="259" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
