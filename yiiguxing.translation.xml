@@ -69,7 +69,20 @@
     <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="flight attendant" />
+      <item value="flight attendants" />
+      <item value="flight attenders" />
+      <item value="latest" />
+      <item value="late" />
+      <item value="toner" />
+      <item value="radiculous" />
+      <item value="break out" />
+      <item value="break in" />
+      <item value="break down" />
+      <item value="on your way up" />
+      <item value="out of toner" />
       <item value="i don't want to be pass through" />
       <item value="pass someone through" />
       <item value="burglary" />
@@ -108,24 +121,12 @@
       <item value="bargain" />
       <item value="bargin" />
       <item value="flavour" />
-      <item value="rumvour" />
-      <item value="savor" />
-      <item value="savour" />
-      <item value="rumar" />
-      <item value="味道" />
-      <item value="pass out" />
-      <item value="pointer" />
-      <item value="poison" />
-      <item value="position" />
-      <item value="concert" />
-      <item value="borrow" />
-      <item value="consort" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="184" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
