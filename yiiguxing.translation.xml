@@ -70,6 +70,18 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="i don't want to be pass through" />
+      <item value="pass someone through" />
+      <item value="burglary" />
+      <item value="burgalr" />
+      <item value="burglar" />
+      <item value="barglery" />
+      <item value="beggary" />
+      <item value="barge" />
+      <item value="lose your cool" />
+      <item value="screw" />
+      <item value="screw up" />
+      <item value="map it out" />
       <item value="greedy" />
       <item value="clever" />
       <item value="take away" />
@@ -108,24 +120,12 @@
       <item value="concert" />
       <item value="borrow" />
       <item value="consort" />
-      <item value="take a chance" />
-      <item value="once in a life time" />
-      <item value="one thing in life time" />
-      <item value="deposited" />
-      <item value="checkbook" />
-      <item value="overdraft" />
-      <item value="tranzation" />
-      <item value="postpone" />
-      <item value="not much" />
-      <item value="whats up" />
-      <item value="no wonder" />
-      <item value="look up" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
@@ -133,6 +133,7 @@
         <entry key="LATVIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="RUSSIAN" value="1" />
+        <entry key="UZBEK" value="2" />
       </map>
     </option>
   </component>
