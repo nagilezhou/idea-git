@@ -66,11 +66,35 @@
     <option name="lastTrimTime" value="1683164767321" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dive" />
+      <item value="swimming custom" />
+      <item value="seal" />
+      <item value="tan" />
+      <item value="data" />
+      <item value="date" />
+      <item value="anchor" />
+      <item value="anchoe" />
+      <item value="anchole" />
+      <item value="anker" />
+      <item value="towards" />
+      <item value="straight" />
+      <item value="strike towards" />
+      <item value="strike" />
+      <item value="awesome" />
+      <item value="for a little while" />
+      <item value="deep" />
+      <item value="backstroke" />
+      <item value="stroke" />
+      <item value="breast" />
+      <item value="breaststroke" />
+      <item value="breath stroke" />
+      <item value="crawl" />
+      <item value="狗爬式游泳" />
       <item value="frank" />
       <item value="character" />
       <item value="pretending" />
@@ -97,36 +121,13 @@
       <item value="break in" />
       <item value="break down" />
       <item value="on your way up" />
-      <item value="out of toner" />
-      <item value="i don't want to be pass through" />
-      <item value="pass someone through" />
-      <item value="burglary" />
-      <item value="burgalr" />
-      <item value="burglar" />
-      <item value="barglery" />
-      <item value="beggary" />
-      <item value="barge" />
-      <item value="lose your cool" />
-      <item value="screw" />
-      <item value="screw up" />
-      <item value="map it out" />
-      <item value="greedy" />
-      <item value="clever" />
-      <item value="take away" />
-      <item value="visa" />
-      <item value="accurate" />
-      <item value="conceive" />
-      <item value="conceived" />
-      <item value="complicated" />
-      <item value="middle of none aware" />
-      <item value="sou" />
-      <item value="soux" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
