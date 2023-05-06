@@ -66,16 +66,36 @@
     <option name="lastTrimTime" value="1683164767321" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fit together" />
+      <item value="absurd" />
+      <item value="antonyms" />
+      <item value="synonyms" />
+      <item value="preposterous" />
+      <item value="近义词和反义词" />
+      <item value="oxford" />
+      <item value="systematic" />
+      <item value="flood" />
+      <item value="presently" />
+      <item value="Quiet" />
+      <item value="foul" />
+      <item value="patch" />
+      <item value="offset" />
+      <item value="by a mile" />
+      <item value="no question about it" />
+      <item value="on the bank of" />
+      <item value="panel kick" />
+      <item value="goal kick" />
+      <item value="offsite" />
+      <item value="thrown" />
       <item value="bound" />
       <item value="out of bounds" />
       <item value="kick off" />
       <item value="fouled" />
-      <item value="foul" />
       <item value="tie" />
       <item value="犯规" />
       <item value="fuel" />
@@ -101,33 +121,13 @@
       <item value="How's it possible" />
       <item value="swear" />
       <item value="almost" />
-      <item value="jerk" />
-      <item value="jealousy" />
-      <item value="jealous" />
-      <item value="overwhelmed" />
-      <item value="negative" />
-      <item value="bastard" />
-      <item value="sleeping with" />
-      <item value="fare" />
-      <item value="english" />
-      <item value="study" />
-      <item value="你英语学习怎么样了" />
-      <item value="right away" />
-      <item value="right this way" />
-      <item value="momentarily" />
-      <item value="polite" />
-      <item value="礼貌" />
-      <item value="pleg" />
-      <item value="certainly" />
-      <item value="楼梯" />
-      <item value="hence" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
