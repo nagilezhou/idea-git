@@ -66,11 +66,42 @@
     <option name="lastTrimTime" value="1683164767321" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="promote" />
+      <item value="promotion" />
+      <item value="especial" />
+      <item value="happy hour" />
+      <item value="tap" />
+      <item value="on tap" />
+      <item value="on tip" />
+      <item value="charge you" />
+      <item value="mortifying" />
+      <item value="mortify" />
+      <item value="修改ip，检查是否存在运行备份或者转换 mortifying" />
+      <item value="embarrassed" />
+      <item value="尴尬" />
+      <item value="害羞" />
+      <item value="羞耻" />
+      <item value="lacing" />
+      <item value="lace" />
+      <item value="蕾丝" />
+      <item value="lsa" />
+      <item value="look around" />
+      <item value="boy shirts" />
+      <item value="boy shorts" />
+      <item value="tare" />
+      <item value="little tare shorts" />
+      <item value="bro" />
+      <item value="bra" />
+      <item value="panties" />
+      <item value="内裤" />
+      <item value="pant" />
+      <item value="panty" />
+      <item value="nickers" />
+      <item value="naddle" />
       <item value="get this over with" />
       <item value="get the hell out of here" />
       <item value="地狱" />
@@ -89,57 +120,27 @@
       <item value="granny" />
       <item value="lingerie" />
       <item value="lingering" />
-      <item value="we're all time for today but until next time" />
-      <item value="Muffin" />
-      <item value="baking" />
-      <item value="bake" />
-      <item value="eager" />
-      <item value="drive me crazy" />
-      <item value="sunny setup egg" />
-      <item value="sunny set up egg" />
-      <item value="煎鸡蛋" />
-      <item value="摊鸡蛋" />
-      <item value="spread" />
-      <item value="scrape" />
-      <item value="pizzas" />
-      <item value="toast" />
-      <item value="scrape egg" />
-      <item value="stick" />
-      <item value="沾" />
-      <item value="deep them" />
-      <item value="hot boil egg" />
-      <item value="fred" />
-      <item value="fred egg" />
-      <item value="soft boil" />
-      <item value="sunny set up" />
-      <item value="hot boy egg" />
-      <item value="yolk" />
-      <item value="picky" />
-      <item value="honey" />
-      <item value="negative" />
-      <item value="single handle" />
-      <item value="proof" />
-      <item value="circumstance" />
-      <item value="indicate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="436" />
+        <entry key="ENGLISH" value="437" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
+        <entry key="HAUSA" value="1" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="LATVIAN" value="1" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="UZBEK" value="2" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="UZBEK" value="3" />
       </map>
     </option>
   </component>
