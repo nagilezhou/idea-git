@@ -71,6 +71,30 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="circumstance" />
+      <item value="indicate" />
+      <item value="true" />
+      <item value="find out sth to be true" />
+      <item value="find out" />
+      <item value="determine" />
+      <item value="indict" />
+      <item value="flaw" />
+      <item value="heavy error" />
+      <item value="cross" />
+      <item value="corss" />
+      <item value="across" />
+      <item value="forest" />
+      <item value="definitive" />
+      <item value="definite" />
+      <item value="conclusion" />
+      <item value="approach" />
+      <item value="investigate approach" />
+      <item value="investigate" />
+      <item value="conclusive" />
+      <item value="conclusive evidence" />
+      <item value="extensive" />
+      <item value="take it together" />
+      <item value="fit" />
       <item value="fit together" />
       <item value="absurd" />
       <item value="antonyms" />
@@ -97,37 +121,13 @@
       <item value="kick off" />
       <item value="fouled" />
       <item value="tie" />
-      <item value="犯规" />
-      <item value="fuel" />
-      <item value="recharge" />
-      <item value="woolly" />
-      <item value="i hope there good for you" />
-      <item value="address" />
-      <item value="you got something in common" />
-      <item value="in common" />
-      <item value="punctual" />
-      <item value="punctually" />
-      <item value="struggle" />
-      <item value="head" />
-      <item value="excel" />
-      <item value="acumen" />
-      <item value="a couple of" />
-      <item value="insult" />
-      <item value="pressure" />
-      <item value="knocked up" />
-      <item value="you're sin" />
-      <item value="fair" />
-      <item value="it's not fair" />
-      <item value="How's it possible" />
-      <item value="swear" />
-      <item value="almost" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="363" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
