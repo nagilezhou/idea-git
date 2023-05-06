@@ -71,6 +71,23 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="insult" />
+      <item value="pressure" />
+      <item value="knocked up" />
+      <item value="you're sin" />
+      <item value="fair" />
+      <item value="it's not fair" />
+      <item value="How's it possible" />
+      <item value="swear" />
+      <item value="almost" />
+      <item value="jerk" />
+      <item value="jealousy" />
+      <item value="jealous" />
+      <item value="overwhelmed" />
+      <item value="negative" />
+      <item value="bastard" />
+      <item value="sleeping with" />
+      <item value="fare" />
       <item value="english" />
       <item value="study" />
       <item value="你英语学习怎么样了" />
@@ -104,35 +121,18 @@
       <item value="Bread" />
       <item value="宽广的" />
       <item value="bread" />
-      <item value="strive" />
-      <item value="track the study" />
-      <item value="course of study" />
-      <item value="specialize" />
-      <item value="degree" />
-      <item value="bachelor" />
-      <item value="minor" />
-      <item value="properties" />
-      <item value="dive" />
-      <item value="swimming custom" />
-      <item value="seal" />
-      <item value="tan" />
-      <item value="data" />
-      <item value="date" />
-      <item value="anchor" />
-      <item value="anchoe" />
-      <item value="anchole" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="HMONG" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="2" />
         <entry key="LATVIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
