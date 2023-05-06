@@ -71,6 +71,9 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="negative" />
+      <item value="single handle" />
+      <item value="proof" />
       <item value="circumstance" />
       <item value="indicate" />
       <item value="true" />
@@ -118,16 +121,13 @@
       <item value="thrown" />
       <item value="bound" />
       <item value="out of bounds" />
-      <item value="kick off" />
-      <item value="fouled" />
-      <item value="tie" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="362" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="CHINESE" value="365" />
+        <entry key="ENGLISH" value="366" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
