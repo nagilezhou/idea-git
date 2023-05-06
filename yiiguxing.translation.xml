@@ -71,6 +71,14 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bound" />
+      <item value="out of bounds" />
+      <item value="kick off" />
+      <item value="fouled" />
+      <item value="foul" />
+      <item value="tie" />
+      <item value="犯规" />
+      <item value="fuel" />
       <item value="recharge" />
       <item value="woolly" />
       <item value="i hope there good for you" />
@@ -113,21 +121,13 @@
       <item value="certainly" />
       <item value="楼梯" />
       <item value="hence" />
-      <item value="pursuit" />
-      <item value="post" />
-      <item value="add in" />
-      <item value="with-honors" />
-      <item value="wit-honors" />
-      <item value="with honors" />
-      <item value="examine" />
-      <item value="attributes" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="HAITIAN_CREOLE" value="2" />
