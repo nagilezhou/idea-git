@@ -66,70 +66,71 @@
     <option name="lastTrimTime" value="1683164767321" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
-      <item value="psychologist" />
-      <item value="sex" />
-      <item value="dude" />
+      <item value="wide" />
+      <item value="嘴张大" />
+      <item value="brasher" />
+      <item value="fill in" />
+      <item value="carious tooth" />
+      <item value="蛀牙" />
+      <item value="wisdom teeth" />
+      <item value="swelling" />
+      <item value="swell" />
+      <item value="膨胀" />
+      <item value="wild" />
+      <item value="wald" />
+      <item value="xray" />
+      <item value="tooth" />
+      <item value="teeth" />
+      <item value="get it together" />
+      <item value="positively famished" />
+      <item value="positive famished" />
+      <item value="hell" />
+      <item value="pilot" />
+      <item value="what the hell" />
+      <item value="i could say that better than myself" />
+      <item value="i couldn't say that better than myself" />
+      <item value="i couldn't say that better myself" />
+      <item value="scream" />
+      <item value="chilling" />
+      <item value="emotion" />
+      <item value="chill" />
+      <item value="dunce" />
+      <item value="idiot" />
+      <item value="negative self talk" />
+      <item value="tog" />
+      <item value="negative self tog" />
+      <item value="negative" />
+      <item value="which also not true" />
+      <item value="sexist person" />
+      <item value="sexist" />
+      <item value="sexual person" />
       <item value="sexual" />
-      <item value="famished" />
-      <item value="bless" />
-      <item value="embarrassing" />
-      <item value="尴尬的" />
-      <item value="embracing" />
-      <item value="so on" />
-      <item value="sample" />
-      <item value="old fashioned" />
-      <item value="old fashion" />
-      <item value="fancy" />
-      <item value="blast" />
-      <item value="blas" />
-      <item value="pinky" />
-      <item value="小拇指" />
-      <item value="pinker" />
-      <item value="unexpect" />
-      <item value="any more" />
-      <item value="use any more" />
-      <item value="usually" />
-      <item value="specifically" />
-      <item value="spectacularly" />
-      <item value="exactly spectacularly" />
-      <item value="exactly" />
-      <item value="neck" />
-      <item value="nick" />
-      <item value="index finger" />
-      <item value="crimes" />
-      <item value="crimis" />
-      <item value="come up with that" />
-      <item value="come on with that" />
-      <item value="just" />
-      <item value="just say so" />
-      <item value="insulting" />
-      <item value="severeness" />
-      <item value="sick" />
-      <item value="get laid off" />
-      <item value="pink slip" />
-      <item value="bush" />
-      <item value="employment" />
-      <item value="beat around bush" />
-      <item value="easy conversation" />
-      <item value="resent" />
-      <item value="noticeable" />
-      <item value="alcohol" />
-      <item value="Authority" />
-      <item value="Contain" />
+      <item value="sex person" />
+      <item value="not at all" />
+      <item value="gamble" />
+      <item value="dump" />
+      <item value="damn" />
+      <item value="智力低下" />
+      <item value="白痴" />
+      <item value="赌博" />
+      <item value="gam" />
+      <item value="gamb" />
+      <item value="gun" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="494" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="541" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
+        <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="HAUSA" value="1" />
         <entry key="HAWAIIAN" value="1" />
@@ -137,10 +138,12 @@
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="3" />
         <entry key="LATVIAN" value="1" />
+        <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="SWEDISH" value="2" />
         <entry key="UZBEK" value="3" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
