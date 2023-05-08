@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="bless" />
       <item value="embarrassing" />
       <item value="尴尬的" />
       <item value="embracing" />
@@ -119,14 +120,13 @@
       <item value="Plugins" />
       <item value="buck" />
       <item value="narrow" />
-      <item value="beer shake" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="489" />
+        <entry key="ENGLISH" value="490" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
