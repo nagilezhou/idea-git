@@ -66,10 +66,14 @@
     <option name="lastTrimTime" value="1683164767321" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="exactly" />
+      <item value="specifically" />
+      <item value="racing" />
+      <item value="dialect" />
       <item value="know at all" />
       <item value="smarty pets" />
       <item value="suck up" />
@@ -116,17 +120,13 @@
       <item value="i couldn't say that better myself" />
       <item value="scream" />
       <item value="chilling" />
-      <item value="emotion" />
-      <item value="chill" />
-      <item value="dunce" />
-      <item value="idiot" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="558" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
