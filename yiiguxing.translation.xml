@@ -70,6 +70,9 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="hole in tooth" />
+      <item value="hole" />
+      <item value="bargain" />
       <item value="wide" />
       <item value="嘴张大" />
       <item value="brasher" />
@@ -117,16 +120,13 @@
       <item value="智力低下" />
       <item value="白痴" />
       <item value="赌博" />
-      <item value="gam" />
-      <item value="gamb" />
-      <item value="gun" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="540" />
-        <entry key="ENGLISH" value="541" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="544" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
