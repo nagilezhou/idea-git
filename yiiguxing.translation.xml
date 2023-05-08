@@ -70,6 +70,15 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="get laid off" />
+      <item value="pink slip" />
+      <item value="bush" />
+      <item value="employment" />
+      <item value="beat around bush" />
+      <item value="easy conversation" />
+      <item value="resent" />
+      <item value="noticeable" />
+      <item value="alcohol" />
       <item value="Authority" />
       <item value="Contain" />
       <item value="Container" />
@@ -111,22 +120,13 @@
       <item value="pant" />
       <item value="panty" />
       <item value="nickers" />
-      <item value="naddle" />
-      <item value="get this over with" />
-      <item value="get the hell out of here" />
-      <item value="地狱" />
-      <item value="hale" />
-      <item value="get the hale out of here" />
-      <item value="embarrassing" />
-      <item value="embarrass" />
-      <item value="embracing" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="443" />
-        <entry key="ENGLISH" value="444" />
+        <entry key="CHINESE" value="455" />
+        <entry key="ENGLISH" value="456" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
