@@ -70,6 +70,15 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="know at all" />
+      <item value="smarty pets" />
+      <item value="suck up" />
+      <item value="set up" />
+      <item value="sick up" />
+      <item value="a teacher's pet" />
+      <item value="平方根" />
+      <item value="divide" />
+      <item value="davide" />
       <item value="twelve times twelve" />
       <item value="next operation" />
       <item value="negative 4" />
@@ -111,22 +120,13 @@
       <item value="chill" />
       <item value="dunce" />
       <item value="idiot" />
-      <item value="negative self talk" />
-      <item value="tog" />
-      <item value="negative self tog" />
-      <item value="negative" />
-      <item value="which also not true" />
-      <item value="sexist person" />
-      <item value="sexist" />
-      <item value="sexual person" />
-      <item value="sexual" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="551" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="CHINESE" value="558" />
+        <entry key="ENGLISH" value="559" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
@@ -135,7 +135,8 @@
         <entry key="HAUSA" value="1" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="ITALIAN" value="2" />
+        <entry key="ITALIAN" value="3" />
+        <entry key="JAPANESE" value="1" />
         <entry key="LATIN" value="3" />
         <entry key="LATVIAN" value="1" />
         <entry key="MALAY" value="1" />
