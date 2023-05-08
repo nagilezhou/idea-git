@@ -70,6 +70,15 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="剩下5分钟" />
+      <item value="minutes to left" />
+      <item value="left" />
+      <item value="partner in crying" />
+      <item value="pace car" />
+      <item value="spent out" />
+      <item value="break" />
+      <item value="jam" />
+      <item value="jam the break" />
       <item value="exactly" />
       <item value="specifically" />
       <item value="racing" />
@@ -111,22 +120,13 @@
       <item value="teeth" />
       <item value="get it together" />
       <item value="positively famished" />
-      <item value="positive famished" />
-      <item value="hell" />
-      <item value="pilot" />
-      <item value="what the hell" />
-      <item value="i could say that better than myself" />
-      <item value="i couldn't say that better than myself" />
-      <item value="i couldn't say that better myself" />
-      <item value="scream" />
-      <item value="chilling" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="570" />
+        <entry key="ENGLISH" value="570" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
