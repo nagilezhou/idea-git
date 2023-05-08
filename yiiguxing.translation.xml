@@ -70,6 +70,14 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="carolina" />
+      <item value="illegal" />
+      <item value="aspect" />
+      <item value="harsh" />
+      <item value="drastic measure" />
+      <item value="measure" />
+      <item value="drastic masseur" />
+      <item value="hostile" />
       <item value="剩下5分钟" />
       <item value="minutes to left" />
       <item value="left" />
@@ -112,21 +120,13 @@
       <item value="wisdom teeth" />
       <item value="swelling" />
       <item value="swell" />
-      <item value="膨胀" />
-      <item value="wild" />
-      <item value="wald" />
-      <item value="xray" />
-      <item value="tooth" />
-      <item value="teeth" />
-      <item value="get it together" />
-      <item value="positively famished" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="570" />
-        <entry key="ENGLISH" value="570" />
+        <entry key="CHINESE" value="579" />
+        <entry key="ENGLISH" value="580" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
