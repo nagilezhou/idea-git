@@ -70,6 +70,12 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="line drive" />
+      <item value="wind" />
+      <item value="wind up" />
+      <item value="winder" />
+      <item value="winder up" />
+      <item value="national hum" />
       <item value="tablet" />
       <item value="subgenre" />
       <item value="片剂" />
@@ -114,12 +120,6 @@
       <item value="rapist" />
       <item value="强奸犯" />
       <item value="crime" />
-      <item value="illegal" />
-      <item value="kidnap" />
-      <item value="kidnapp" />
-      <item value="napper" />
-      <item value="against wall with force or violence" />
-      <item value="force" />
     </histories>
     <option name="languageScores">
       <map>
@@ -127,8 +127,8 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="712" />
-        <entry key="ENGLISH" value="713" />
+        <entry key="CHINESE" value="718" />
+        <entry key="ENGLISH" value="719" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="4" />
