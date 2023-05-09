@@ -71,6 +71,9 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="check out" />
+      <item value="slot" />
+      <item value="pound" />
       <item value="letter" />
       <item value="字符" />
       <item value="安保" />
@@ -118,9 +121,6 @@
       <item value="i'm glad to break free this hard relationship" />
       <item value="rupee" />
       <item value="cricher" />
-      <item value="animal" />
-      <item value="toilet" />
-      <item value="scary" />
     </histories>
     <option name="languageScores">
       <map>
@@ -128,8 +128,8 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="697" />
-        <entry key="ENGLISH" value="698" />
+        <entry key="CHINESE" value="700" />
+        <entry key="ENGLISH" value="701" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
