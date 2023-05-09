@@ -70,6 +70,10 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="tablet" />
+      <item value="subgenre" />
+      <item value="片剂" />
+      <item value="胶囊" />
       <item value="hang on a minute" />
       <item value="eye drops" />
       <item value="eyedrops" />
@@ -116,10 +120,6 @@
       <item value="napper" />
       <item value="against wall with force or violence" />
       <item value="force" />
-      <item value="violence" />
-      <item value="against wall" />
-      <item value="wall" />
-      <item value="kidnapper" />
     </histories>
     <option name="languageScores">
       <map>
@@ -127,8 +127,8 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="709" />
+        <entry key="CHINESE" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="4" />
