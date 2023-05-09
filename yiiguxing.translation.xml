@@ -70,6 +70,8 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="up to bait" />
+      <item value="bait" />
       <item value="line drive" />
       <item value="wind" />
       <item value="wind up" />
@@ -118,8 +120,6 @@
       <item value="to rap someone" />
       <item value="rap" />
       <item value="rapist" />
-      <item value="强奸犯" />
-      <item value="crime" />
     </histories>
     <option name="languageScores">
       <map>
@@ -127,8 +127,8 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="718" />
-        <entry key="ENGLISH" value="719" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="721" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="4" />
