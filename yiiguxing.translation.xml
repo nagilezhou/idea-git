@@ -70,6 +70,24 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="stick with it" />
+      <item value="stick" />
+      <item value="and stick with it!" />
+      <item value="budget" />
+      <item value="charge" />
+      <item value="charged" />
+      <item value="overdrawn" />
+      <item value="what am i going to do" />
+      <item value="once and for all" />
+      <item value="galaxy" />
+      <item value="manage" />
+      <item value="光年" />
+      <item value="光速" />
+      <item value="light year" />
+      <item value="毁灭" />
+      <item value="rein her for me" />
+      <item value="once for all" />
+      <item value="circumstance" />
       <item value="prisoner" />
       <item value="any more" />
       <item value="breaking through" />
@@ -102,31 +120,13 @@
       <item value="racing" />
       <item value="dialect" />
       <item value="know at all" />
-      <item value="smarty pets" />
-      <item value="suck up" />
-      <item value="set up" />
-      <item value="sick up" />
-      <item value="a teacher's pet" />
-      <item value="平方根" />
-      <item value="divide" />
-      <item value="davide" />
-      <item value="twelve times twelve" />
-      <item value="next operation" />
-      <item value="negative 4" />
-      <item value="minus" />
-      <item value="swell up" />
-      <item value="Xrays" />
-      <item value="mouth washer" />
-      <item value="wash" />
-      <item value="hole in tooth" />
-      <item value="hole" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="590" />
-        <entry key="ENGLISH" value="591" />
+        <entry key="CHINESE" value="608" />
+        <entry key="ENGLISH" value="609" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
