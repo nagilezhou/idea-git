@@ -70,6 +70,13 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="squarer" />
+      <item value="tenant" />
+      <item value="租客" />
+      <item value="landlord" />
+      <item value="lord" />
+      <item value="领主" />
+      <item value="房主" />
       <item value="up to bait" />
       <item value="bait" />
       <item value="line drive" />
@@ -113,13 +120,6 @@
       <item value="shall we" />
       <item value="bothering" />
       <item value="pipeline" />
-      <item value="but the purpose for those two req is to pipeline candidates, we can’t make offer for next 2 quota," />
-      <item value="purpose" />
-      <item value="burning you" />
-      <item value="towards" />
-      <item value="to rap someone" />
-      <item value="rap" />
-      <item value="rapist" />
     </histories>
     <option name="languageScores">
       <map>
@@ -127,8 +127,8 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="720" />
-        <entry key="ENGLISH" value="721" />
+        <entry key="CHINESE" value="724" />
+        <entry key="ENGLISH" value="725" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="4" />
