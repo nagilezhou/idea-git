@@ -66,10 +66,25 @@
     <option name="lastTrimTime" value="1683597674221" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogHeight" value="247" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="770" />
-    <option name="newTranslationDialogY" value="442" />
+    <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="site" />
+      <item value="construction site" />
+      <item value="calculate the square footage construction site" />
+      <item value="construction" />
+      <item value="square footage" />
+      <item value="footage" />
+      <item value="forage" />
+      <item value="square" />
+      <item value="平方米" />
+      <item value="area" />
+      <item value="renovate" />
+      <item value="redecoration" />
+      <item value="renew" />
+      <item value="retentivity" />
       <item value="squarer" />
       <item value="tenant" />
       <item value="租客" />
@@ -106,20 +121,6 @@
       <item value="字符" />
       <item value="安保" />
       <item value="withdraw" />
-      <item value="turn its out" />
-      <item value="gear box" />
-      <item value="creature" />
-      <item value="生物" />
-      <item value="糟糕的" />
-      <item value="Gee" />
-      <item value="lets me" />
-      <item value="dui" />
-      <item value="polite" />
-      <item value="poliet" />
-      <item value="quota" />
-      <item value="shall we" />
-      <item value="bothering" />
-      <item value="pipeline" />
     </histories>
     <option name="languageScores">
       <map>
@@ -127,8 +128,8 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="724" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="CHINESE" value="741" />
+        <entry key="ENGLISH" value="742" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="4" />
