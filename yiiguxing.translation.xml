@@ -71,6 +71,10 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="letter" />
+      <item value="字符" />
+      <item value="安保" />
+      <item value="withdraw" />
       <item value="turn its out" />
       <item value="gear box" />
       <item value="creature" />
@@ -117,10 +121,6 @@
       <item value="animal" />
       <item value="toilet" />
       <item value="scary" />
-      <item value="spur" />
-      <item value="soft" />
-      <item value="masterpiece" />
-      <item value="piece" />
     </histories>
     <option name="languageScores">
       <map>
@@ -128,8 +128,8 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="695" />
-        <entry key="ENGLISH" value="696" />
+        <entry key="CHINESE" value="697" />
+        <entry key="ENGLISH" value="698" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
