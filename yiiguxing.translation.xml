@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="State" />
       <item value="look like million bucks" />
       <item value="million of bucks" />
       <item value="grow out" />
@@ -119,14 +120,13 @@
       <item value="manage" />
       <item value="光年" />
       <item value="光速" />
-      <item value="light year" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="CHINESE" value="644" />
+        <entry key="ENGLISH" value="645" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="FRENCH" value="4" />
