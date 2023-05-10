@@ -72,6 +72,11 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="overhead compartment" />
+      <item value="compartment" />
+      <item value="overhead" />
+      <item value="train" />
+      <item value="onboard" />
       <item value="three-piece" />
       <item value="three piece of luggage" />
       <item value="piece" />
@@ -117,11 +122,6 @@
       <item value="living room" />
       <item value="area" />
       <item value="appliance" />
-      <item value="a walking close it" />
-      <item value="landlord" />
-      <item value="land lord" />
-      <item value="领主" />
-      <item value="disorder" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,9 +129,9 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="826" />
+        <entry key="CHINESE" value="832" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="827" />
+        <entry key="ENGLISH" value="833" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
