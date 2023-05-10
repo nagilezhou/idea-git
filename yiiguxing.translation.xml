@@ -72,9 +72,18 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="what do you say" />
+      <item value="move out" />
+      <item value="yell" />
+      <item value="reservation" />
+      <item value="make out" />
+      <item value="ask out" />
+      <item value="staple couple" />
+      <item value="static" />
+      <item value="stat" />
+      <item value="willing" />
       <item value="gallant" />
       <item value="brave" />
-      <item value="yell" />
       <item value="behind" />
       <item value="here's the thing" />
       <item value="dictate" />
@@ -113,15 +122,6 @@
       <item value="uncommon" />
       <item value="suite" />
       <item value="not to mention additional privacy" />
-      <item value="adjoining" />
-      <item value="afterwards—refers" />
-      <item value="literally" />
-      <item value="en" />
-      <item value="en-suite" />
-      <item value="spacious" />
-      <item value="space" />
-      <item value="grade" />
-      <item value="professional grade" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,9 +129,9 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="813" />
+        <entry key="CHINESE" value="822" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="814" />
+        <entry key="ENGLISH" value="823" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
