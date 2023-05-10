@@ -67,10 +67,24 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="247" />
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="445" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="spacious" />
+      <item value="space" />
+      <item value="grade" />
+      <item value="professional grade" />
+      <item value="quality" />
+      <item value="professional greed" />
+      <item value="greed" />
+      <item value="electric range" />
+      <item value="electrical range" />
+      <item value="gas range" />
+      <item value="appliance" />
+      <item value="square" />
+      <item value="footage" />
       <item value="stash" />
       <item value="inspect" />
       <item value="register" />
@@ -83,9 +97,7 @@
       <item value="calculate the square footage construction site" />
       <item value="construction" />
       <item value="square footage" />
-      <item value="footage" />
       <item value="forage" />
-      <item value="square" />
       <item value="平方米" />
       <item value="area" />
       <item value="renovate" />
@@ -110,17 +122,6 @@
       <item value="tablet" />
       <item value="subgenre" />
       <item value="片剂" />
-      <item value="胶囊" />
-      <item value="hang on a minute" />
-      <item value="eye drops" />
-      <item value="eyedrops" />
-      <item value="overdose" />
-      <item value="处方" />
-      <item value="说明书" />
-      <item value="presumption" />
-      <item value="price check" />
-      <item value="gram" />
-      <item value="mellow" />
     </histories>
     <option name="languageScores">
       <map>
@@ -128,8 +129,8 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="748" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="CHINESE" value="765" />
+        <entry key="ENGLISH" value="766" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="4" />
