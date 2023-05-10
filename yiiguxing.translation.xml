@@ -72,6 +72,18 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="gallant" />
+      <item value="brave" />
+      <item value="yell" />
+      <item value="behind" />
+      <item value="here's the thing" />
+      <item value="dictate" />
+      <item value="dictatorship" />
+      <item value="dictator" />
+      <item value="wig" />
+      <item value="serious" />
+      <item value="warp ship" />
+      <item value="engage" />
       <item value="nature" />
       <item value="what is the nature of this attack" />
       <item value="under attackfire" />
@@ -81,7 +93,6 @@
       <item value="sustain" />
       <item value="fire" />
       <item value="a wig" />
-      <item value="wig" />
       <item value="wij" />
       <item value="engine" />
       <item value="wrap drive" />
@@ -111,17 +122,6 @@
       <item value="space" />
       <item value="grade" />
       <item value="professional grade" />
-      <item value="quality" />
-      <item value="professional greed" />
-      <item value="greed" />
-      <item value="electric range" />
-      <item value="electrical range" />
-      <item value="gas range" />
-      <item value="square" />
-      <item value="footage" />
-      <item value="stash" />
-      <item value="inspect" />
-      <item value="register" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,9 +129,9 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="795" />
+        <entry key="CHINESE" value="813" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="796" />
+        <entry key="ENGLISH" value="814" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
