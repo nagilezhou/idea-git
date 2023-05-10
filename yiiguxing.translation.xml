@@ -72,6 +72,24 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="wij" />
+      <item value="engine" />
+      <item value="wrap drive" />
+      <item value="fluency builder" />
+      <item value="comment" />
+      <item value="contact" />
+      <item value="content" />
+      <item value="i cant believe you ger this car to for free i think it's sounds too good to be ture" />
+      <item value="living room" />
+      <item value="area" />
+      <item value="appliance" />
+      <item value="a walking close it" />
+      <item value="landlord" />
+      <item value="land lord" />
+      <item value="领主" />
+      <item value="disorder" />
+      <item value="miler" />
+      <item value="uncommon" />
       <item value="suite" />
       <item value="not to mention additional privacy" />
       <item value="adjoining" />
@@ -89,7 +107,6 @@
       <item value="electric range" />
       <item value="electrical range" />
       <item value="gas range" />
-      <item value="appliance" />
       <item value="square" />
       <item value="footage" />
       <item value="stash" />
@@ -105,23 +122,6 @@
       <item value="construction" />
       <item value="square footage" />
       <item value="forage" />
-      <item value="平方米" />
-      <item value="area" />
-      <item value="renovate" />
-      <item value="redecoration" />
-      <item value="renew" />
-      <item value="retentivity" />
-      <item value="squarer" />
-      <item value="tenant" />
-      <item value="租客" />
-      <item value="landlord" />
-      <item value="lord" />
-      <item value="领主" />
-      <item value="房主" />
-      <item value="up to bait" />
-      <item value="bait" />
-      <item value="line drive" />
-      <item value="wind" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,8 +129,8 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="770" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="786" />
+        <entry key="ENGLISH" value="787" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
