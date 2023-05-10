@@ -72,6 +72,10 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="frustrate" />
+      <item value="impolite" />
+      <item value="suppose" />
+      <item value="suppose to" />
       <item value="overhead compartment" />
       <item value="compartment" />
       <item value="overhead" />
@@ -118,10 +122,6 @@
       <item value="comment" />
       <item value="contact" />
       <item value="content" />
-      <item value="i cant believe you ger this car to for free i think it's sounds too good to be ture" />
-      <item value="living room" />
-      <item value="area" />
-      <item value="appliance" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,9 +129,9 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="832" />
+        <entry key="CHINESE" value="836" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="833" />
+        <entry key="ENGLISH" value="837" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
