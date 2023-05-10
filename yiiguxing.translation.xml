@@ -72,6 +72,16 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="nature" />
+      <item value="what is the nature of this attack" />
+      <item value="under attackfire" />
+      <item value="what is the nature of" />
+      <item value="purpose" />
+      <item value="undergo" />
+      <item value="sustain" />
+      <item value="fire" />
+      <item value="a wig" />
+      <item value="wig" />
       <item value="wij" />
       <item value="engine" />
       <item value="wrap drive" />
@@ -112,16 +122,6 @@
       <item value="stash" />
       <item value="inspect" />
       <item value="register" />
-      <item value="login" />
-      <item value="spacer" />
-      <item value="species" />
-      <item value="Sphere" />
-      <item value="site" />
-      <item value="construction site" />
-      <item value="calculate the square footage construction site" />
-      <item value="construction" />
-      <item value="square footage" />
-      <item value="forage" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,8 +129,9 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="786" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="795" />
+        <entry key="DUTCH" value="1" />
+        <entry key="ENGLISH" value="796" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
