@@ -72,6 +72,28 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="invention of millennium" />
+      <item value="discovery" />
+      <item value="discovery of millennium" />
+      <item value="discovery a millennium" />
+      <item value="millennium" />
+      <item value="I haven't been completely honest to you" />
+      <item value="I haven't been completely honest you" />
+      <item value="whereabouts" />
+      <item value="vow" />
+      <item value="发誓" />
+      <item value="promise" />
+      <item value="criminal" />
+      <item value="recriminate" />
+      <item value="罪犯" />
+      <item value="renown" />
+      <item value="confuse" />
+      <item value="claim" />
+      <item value="indian" />
+      <item value="spy" />
+      <item value="间谍" />
+      <item value="特工" />
+      <item value="secret service" />
       <item value="volume" />
       <item value="path" />
       <item value="boarding path" />
@@ -100,28 +122,6 @@
       <item value="ask out" />
       <item value="staple couple" />
       <item value="static" />
-      <item value="stat" />
-      <item value="willing" />
-      <item value="gallant" />
-      <item value="brave" />
-      <item value="behind" />
-      <item value="here's the thing" />
-      <item value="dictate" />
-      <item value="dictatorship" />
-      <item value="dictator" />
-      <item value="wig" />
-      <item value="serious" />
-      <item value="warp ship" />
-      <item value="engage" />
-      <item value="nature" />
-      <item value="what is the nature of this attack" />
-      <item value="under attackfire" />
-      <item value="what is the nature of" />
-      <item value="purpose" />
-      <item value="undergo" />
-      <item value="sustain" />
-      <item value="fire" />
-      <item value="a wig" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,9 +129,9 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="844" />
+        <entry key="CHINESE" value="865" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="845" />
+        <entry key="ENGLISH" value="866" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
@@ -146,6 +146,7 @@
         <entry key="LATVIAN" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="3" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="SWEDISH" value="3" />
