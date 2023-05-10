@@ -72,6 +72,10 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="three-piece" />
+      <item value="three piece of luggage" />
+      <item value="piece" />
+      <item value="three piece of" />
       <item value="what do you say" />
       <item value="move out" />
       <item value="yell" />
@@ -118,10 +122,6 @@
       <item value="land lord" />
       <item value="领主" />
       <item value="disorder" />
-      <item value="miler" />
-      <item value="uncommon" />
-      <item value="suite" />
-      <item value="not to mention additional privacy" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,9 +129,9 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="822" />
+        <entry key="CHINESE" value="826" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="823" />
+        <entry key="ENGLISH" value="827" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
