@@ -72,7 +72,25 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="earth" />
+      <item value="alien" />
+      <item value="flash" />
+      <item value="flush" />
+      <item value="constellation" />
+      <item value="down hall" />
+      <item value="extensive" />
+      <item value="renowned" />
+      <item value="fact" />
+      <item value="pull someone's lag" />
+      <item value="pull someone's leg" />
       <item value="confess" />
+      <item value="profess" />
+      <item value="vow" />
+      <item value="millen" />
+      <item value="claim" />
+      <item value="while" />
+      <item value="none" />
+      <item value="while none" />
       <item value="suppose" />
       <item value="suppose to" />
       <item value="century" />
@@ -89,7 +107,6 @@
       <item value="I haven't been completely honest to you" />
       <item value="I haven't been completely honest you" />
       <item value="whereabouts" />
-      <item value="vow" />
       <item value="发誓" />
       <item value="promise" />
       <item value="criminal" />
@@ -97,7 +114,6 @@
       <item value="罪犯" />
       <item value="renown" />
       <item value="confuse" />
-      <item value="claim" />
       <item value="indian" />
       <item value="spy" />
       <item value="间谍" />
@@ -106,22 +122,6 @@
       <item value="volume" />
       <item value="path" />
       <item value="boarding path" />
-      <item value="intercontinental" />
-      <item value="you charge nothing for international ticket" />
-      <item value="next to nothing" />
-      <item value="army" />
-      <item value="frustrate" />
-      <item value="impolite" />
-      <item value="overhead compartment" />
-      <item value="compartment" />
-      <item value="overhead" />
-      <item value="train" />
-      <item value="onboard" />
-      <item value="three-piece" />
-      <item value="three piece of luggage" />
-      <item value="piece" />
-      <item value="three piece of" />
-      <item value="what do you say" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,9 +129,9 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="874" />
+        <entry key="CHINESE" value="894" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="875" />
+        <entry key="ENGLISH" value="895" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
