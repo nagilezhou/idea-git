@@ -72,11 +72,22 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="masterpiece" />
+      <item value="wonder" />
+      <item value="capacity" />
+      <item value="numerous" />
+      <item value="Galaxy" />
+      <item value="earthlings" />
+      <item value="earthling" />
+      <item value="earthlier" />
+      <item value="blight" />
+      <item value="blend" />
+      <item value="blank" />
+      <item value="constellation" />
       <item value="wander" />
       <item value="fate" />
       <item value="feat" />
       <item value="god" />
-      <item value="wonder" />
       <item value="such wonder as" />
       <item value="anguish" />
       <item value="belligerent" />
@@ -99,7 +110,6 @@
       <item value="alien" />
       <item value="flash" />
       <item value="flush" />
-      <item value="constellation" />
       <item value="down hall" />
       <item value="extensive" />
       <item value="renowned" />
@@ -112,16 +122,6 @@
       <item value="millen" />
       <item value="claim" />
       <item value="while" />
-      <item value="none" />
-      <item value="while none" />
-      <item value="suppose" />
-      <item value="suppose to" />
-      <item value="century" />
-      <item value="discover a decade" />
-      <item value="decade" />
-      <item value="discover" />
-      <item value="千年" />
-      <item value="前年" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,9 +130,10 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="919" />
+        <entry key="CHINESE" value="933" />
+        <entry key="CORSICAN" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="920" />
+        <entry key="ENGLISH" value="934" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
