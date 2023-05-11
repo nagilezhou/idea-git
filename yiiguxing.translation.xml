@@ -67,11 +67,22 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="247" />
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="wander" />
+      <item value="fate" />
+      <item value="feat" />
+      <item value="god" />
+      <item value="wonder" />
+      <item value="such wonder as" />
+      <item value="anguish" />
+      <item value="belligerent" />
+      <item value="aggressive" />
+      <item value="attitude" />
+      <item value="lack ambition with his downforce" />
       <item value="lack ambition with his downfall" />
       <item value="downfall" />
       <item value="reputation" />
@@ -111,17 +122,6 @@
       <item value="discover" />
       <item value="千年" />
       <item value="前年" />
-      <item value="invention of millennium" />
-      <item value="discovery" />
-      <item value="discovery of millennium" />
-      <item value="discovery a millennium" />
-      <item value="millennium" />
-      <item value="I haven't been completely honest to you" />
-      <item value="I haven't been completely honest you" />
-      <item value="whereabouts" />
-      <item value="发誓" />
-      <item value="promise" />
-      <item value="criminal" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,9 +130,9 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="905" />
+        <entry key="CHINESE" value="919" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="906" />
+        <entry key="ENGLISH" value="920" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
