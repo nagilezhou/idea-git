@@ -72,6 +72,16 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="blast" />
+      <item value="guys" />
+      <item value="gays" />
+      <item value="it will be blast" />
+      <item value="punch" />
+      <item value="patch" />
+      <item value="bumpy fingers" />
+      <item value="stop fighting" />
+      <item value="swell party" />
+      <item value="swell" />
       <item value="downfall" />
       <item value="far" />
       <item value="afar" />
@@ -112,16 +122,6 @@
       <item value="creatives" />
       <item value="aliveness" />
       <item value="consequence" />
-      <item value="planet" />
-      <item value="venvs" />
-      <item value="blanket" />
-      <item value="earth" />
-      <item value="alien" />
-      <item value="flash" />
-      <item value="flush" />
-      <item value="down hall" />
-      <item value="extensive" />
-      <item value="renowned" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,10 +130,10 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="951" />
+        <entry key="CHINESE" value="960" />
         <entry key="CORSICAN" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="952" />
+        <entry key="ENGLISH" value="961" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
