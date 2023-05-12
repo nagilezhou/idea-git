@@ -72,17 +72,28 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="bump" />
+      <item value="strategic" />
+      <item value="doubt" />
+      <item value="ahead" />
+      <item value="ahead of us" />
+      <item value="a head of us" />
+      <item value="service" />
+      <item value="jump serve" />
+      <item value="serve" />
+      <item value="asset" />
+      <item value="tip of your fingers" />
       <item value="tip" />
+      <item value="fore" />
+      <item value="powerhouse" />
+      <item value="commercial" />
+      <item value="encounter" />
+      <item value="bump" />
       <item value="tap your fingers" />
       <item value="tip your fingers" />
-      <item value="commercial" />
       <item value="after a short commercial break" />
       <item value="try to qualify next round" />
       <item value="qualify" />
       <item value="energetic" />
-      <item value="powerhouse" />
-      <item value="encounter" />
       <item value="an exciting encounter" />
       <item value="competitive" />
       <item value="proper" />
@@ -111,17 +122,6 @@
       <item value="anguish" />
       <item value="dawn full" />
       <item value="dawn" />
-      <item value="piece" />
-      <item value="masterpiece" />
-      <item value="wonder" />
-      <item value="capacity" />
-      <item value="numerous" />
-      <item value="Galaxy" />
-      <item value="earthlings" />
-      <item value="earthling" />
-      <item value="earthlier" />
-      <item value="blight" />
-      <item value="blend" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,10 +130,10 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="978" />
+        <entry key="CHINESE" value="995" />
         <entry key="CORSICAN" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="979" />
+        <entry key="ENGLISH" value="996" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
