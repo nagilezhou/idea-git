@@ -72,6 +72,11 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tough" />
+      <item value="antiparticle" />
+      <item value="matter" />
+      <item value="钻机" />
+      <item value="particle" />
       <item value="anticipate" />
       <item value="in top ship" />
       <item value="ship" />
@@ -117,11 +122,6 @@
       <item value="stop fighting" />
       <item value="swell party" />
       <item value="swell" />
-      <item value="downfall" />
-      <item value="far" />
-      <item value="afar" />
-      <item value="from a far" />
-      <item value="hooks" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,10 +130,10 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1001" />
+        <entry key="CHINESE" value="1004" />
         <entry key="CORSICAN" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1002" />
+        <entry key="ENGLISH" value="1005" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
