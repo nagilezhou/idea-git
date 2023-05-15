@@ -72,8 +72,12 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="accusation" />
+      <item value="predictable" />
       <item value="fable" />
+      <item value="centre characteristic" />
+      <item value="centre" />
+      <item value="center" />
+      <item value="accusation" />
       <item value="cliche" />
       <item value="enchanting" />
       <item value="pretri" />
@@ -118,10 +122,6 @@
       <item value="shrikee" />
       <item value="shrike" />
       <item value="several" />
-      <item value="severe" />
-      <item value="collapse" />
-      <item value="therefore" />
-      <item value="thus" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,11 +130,11 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1065" />
+        <entry key="CHINESE" value="1073" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1066" />
+        <entry key="ENGLISH" value="1074" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
