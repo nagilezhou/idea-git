@@ -63,7 +63,7 @@
     <option name="lastTrimTime" value="1641453936181" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683597674221" />
+    <option name="lastTrimTime" value="1684115094474" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="247" />
@@ -72,11 +72,11 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="tough" />
       <item value="antiparticle" />
-      <item value="matter" />
-      <item value="钻机" />
       <item value="particle" />
+      <item value="matter" />
+      <item value="tough" />
+      <item value="钻机" />
       <item value="anticipate" />
       <item value="in top ship" />
       <item value="ship" />
@@ -130,10 +130,10 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1004" />
+        <entry key="CHINESE" value="1007" />
         <entry key="CORSICAN" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1005" />
+        <entry key="ENGLISH" value="1008" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
