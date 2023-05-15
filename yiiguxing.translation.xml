@@ -72,8 +72,18 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="spacial" />
+      <item value="massive" />
+      <item value="foggy" />
+      <item value="雾天" />
+      <item value="frog" />
+      <item value="Authority" />
+      <item value="gust wind" />
+      <item value="gust" />
+      <item value="gus" />
+      <item value="scattered" />
       <item value="special" />
+      <item value="specific" />
+      <item value="spacial" />
       <item value="isolate downpour" />
       <item value="downpour" />
       <item value="isolate" />
@@ -112,16 +122,6 @@
       <item value="will proof to be" />
       <item value="strategic" />
       <item value="doubt" />
-      <item value="ahead" />
-      <item value="ahead of us" />
-      <item value="a head of us" />
-      <item value="service" />
-      <item value="jump serve" />
-      <item value="serve" />
-      <item value="asset" />
-      <item value="tip of your fingers" />
-      <item value="tip" />
-      <item value="fore" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,11 +130,11 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1037" />
+        <entry key="CHINESE" value="1051" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1038" />
+        <entry key="ENGLISH" value="1052" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
