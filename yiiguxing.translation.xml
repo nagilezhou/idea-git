@@ -67,11 +67,34 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="247" />
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="despot" />
+      <item value="autocratic" />
+      <item value="autocracy" />
+      <item value="独裁" />
+      <item value="trick" />
+      <item value="track" />
+      <item value="deceit" />
+      <item value="untruth" />
+      <item value="honest" />
+      <item value="lie" />
+      <item value="scar" />
+      <item value="scary mongering" />
+      <item value="indisputable" />
+      <item value="indisputable of fact" />
+      <item value="in disputable of fact" />
+      <item value="disputable" />
+      <item value="scary manging" />
+      <item value="manging" />
+      <item value="accuse" />
+      <item value="indeed" />
+      <item value="看法" />
+      <item value="观点" />
+      <item value="truthful" />
       <item value="in dispute of fact" />
       <item value="dispute" />
       <item value="in spite of" />
@@ -99,29 +122,6 @@
       <item value="nosy" />
       <item value="dare" />
       <item value="dare to say" />
-      <item value="foresee" />
-      <item value="central character" />
-      <item value="predictable" />
-      <item value="fable" />
-      <item value="centre characteristic" />
-      <item value="centre" />
-      <item value="center" />
-      <item value="accusation" />
-      <item value="cliche" />
-      <item value="enchanting" />
-      <item value="pretri" />
-      <item value="grim pretrial" />
-      <item value="pretrial" />
-      <item value="grim" />
-      <item value="depict" />
-      <item value="practise" />
-      <item value="练习某事" />
-      <item value="work out" />
-      <item value="gossip" />
-      <item value="obnoxious" />
-      <item value="flatter" />
-      <item value="massive" />
-      <item value="foggy" />
     </histories>
     <option name="languageScores">
       <map>
@@ -129,14 +129,15 @@
         <entry key="BENGALI" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1102" />
+        <entry key="CHINESE" value="1127" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1103" />
+        <entry key="ENGLISH" value="1128" />
         <entry key="ESTONIAN" value="1" />
-        <entry key="FILIPINO" value="2" />
+        <entry key="FILIPINO" value="3" />
         <entry key="FRENCH" value="5" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
