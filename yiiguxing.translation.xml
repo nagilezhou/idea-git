@@ -72,6 +72,16 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="in dispute of fact" />
+      <item value="dispute" />
+      <item value="in spite of" />
+      <item value="in dispute of" />
+      <item value="effect" />
+      <item value="in dispute of effect" />
+      <item value="endangered species" />
+      <item value="endanger species" />
+      <item value="species" />
+      <item value="endanger" />
       <item value="ride on" />
       <item value="rid on" />
       <item value="right on" />
@@ -112,16 +122,6 @@
       <item value="flatter" />
       <item value="massive" />
       <item value="foggy" />
-      <item value="雾天" />
-      <item value="frog" />
-      <item value="Authority" />
-      <item value="gust wind" />
-      <item value="gust" />
-      <item value="gus" />
-      <item value="scattered" />
-      <item value="special" />
-      <item value="specific" />
-      <item value="spacial" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,11 +130,11 @@
         <entry key="BULGARIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1091" />
+        <entry key="CHINESE" value="1102" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1092" />
+        <entry key="ENGLISH" value="1103" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="FRENCH" value="5" />
