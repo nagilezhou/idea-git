@@ -72,6 +72,36 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="slide" />
+      <item value="slides" />
+      <item value="wealth" />
+      <item value="slope" />
+      <item value="slopes" />
+      <item value="slops" />
+      <item value="goggle" />
+      <item value="goggles" />
+      <item value="catch the major air" />
+      <item value="catch the major area" />
+      <item value="sloops" />
+      <item value="滑水" />
+      <item value="帆船" />
+      <item value="划船" />
+      <item value="sloop" />
+      <item value="skiing" />
+      <item value="freshest" />
+      <item value="take its spill" />
+      <item value="take it's spill" />
+      <item value="spill" />
+      <item value="spell" />
+      <item value="hit" />
+      <item value="hit the supermarket" />
+      <item value="go skiing" />
+      <item value="coll" />
+      <item value="cool" />
+      <item value="gaggle" />
+      <item value="google" />
+      <item value="binding" />
+      <item value="binging" />
       <item value="fresh" />
       <item value="fresh powder" />
       <item value="powder" />
@@ -92,36 +122,6 @@
       <item value="trick" />
       <item value="track" />
       <item value="deceit" />
-      <item value="untruth" />
-      <item value="honest" />
-      <item value="lie" />
-      <item value="scar" />
-      <item value="scary mongering" />
-      <item value="indisputable" />
-      <item value="indisputable of fact" />
-      <item value="in disputable of fact" />
-      <item value="disputable" />
-      <item value="scary manging" />
-      <item value="manging" />
-      <item value="accuse" />
-      <item value="indeed" />
-      <item value="看法" />
-      <item value="观点" />
-      <item value="truthful" />
-      <item value="in dispute of fact" />
-      <item value="dispute" />
-      <item value="in spite of" />
-      <item value="in dispute of" />
-      <item value="effect" />
-      <item value="in dispute of effect" />
-      <item value="endangered species" />
-      <item value="endanger species" />
-      <item value="species" />
-      <item value="endanger" />
-      <item value="ride on" />
-      <item value="rid on" />
-      <item value="right on" />
-      <item value="starve" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +131,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1140" />
+        <entry key="CHINESE" value="1170" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1141" />
+        <entry key="ENGLISH" value="1171" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FRENCH" value="5" />
