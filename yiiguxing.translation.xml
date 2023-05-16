@@ -71,6 +71,16 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="advance" />
+      <item value="in advance" />
+      <item value="what's the catch" />
+      <item value="compatible" />
+      <item value="roll over" />
+      <item value="held" />
+      <item value="Hand-held" />
+      <item value="cellphone" />
+      <item value="hand-site" />
+      <item value="hand site" />
       <item value="加价" />
       <item value="hitting charges" />
       <item value="hands-ide" />
@@ -111,16 +121,6 @@
       <item value="帆船" />
       <item value="划船" />
       <item value="sloop" />
-      <item value="skiing" />
-      <item value="freshest" />
-      <item value="take its spill" />
-      <item value="take it's spill" />
-      <item value="spill" />
-      <item value="spell" />
-      <item value="hit" />
-      <item value="hit the supermarket" />
-      <item value="go skiing" />
-      <item value="coll" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,11 +130,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1196" />
+        <entry key="CHINESE" value="1207" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1196" />
+        <entry key="ENGLISH" value="1208" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FRENCH" value="5" />
