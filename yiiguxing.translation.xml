@@ -71,6 +71,16 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="hard earned" />
+      <item value="不能吃" />
+      <item value="难吃" />
+      <item value="难以下咽" />
+      <item value="overcooked" />
+      <item value="rubbery" />
+      <item value="橡胶" />
+      <item value="until then" />
+      <item value="dog bag" />
+      <item value="runny" />
       <item value="keep away" />
       <item value="保持距离" />
       <item value="grain" />
@@ -92,7 +102,6 @@
       <item value="salty" />
       <item value="overthink" />
       <item value="runny nose" />
-      <item value="runny" />
       <item value="更新备份策略的使用量 waitress waiter servant domestic runny nose overthean" />
       <item value="ronny nose" />
       <item value="nose" />
@@ -112,15 +121,6 @@
       <item value="repaid" />
       <item value="repay" />
       <item value="rapid" />
-      <item value="advance" />
-      <item value="in advance" />
-      <item value="what's the catch" />
-      <item value="compatible" />
-      <item value="roll over" />
-      <item value="held" />
-      <item value="Hand-held" />
-      <item value="cellphone" />
-      <item value="hand-site" />
     </histories>
     <option name="languageScores">
       <map>
@@ -130,11 +130,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1255" />
+        <entry key="CHINESE" value="1262" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1256" />
+        <entry key="ENGLISH" value="1263" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FRENCH" value="5" />
