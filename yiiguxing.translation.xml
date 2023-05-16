@@ -72,6 +72,9 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fresh" />
+      <item value="fresh powder" />
+      <item value="powder" />
       <item value="fresh ponder" />
       <item value="appreciate" />
       <item value="former" />
@@ -119,9 +122,6 @@
       <item value="rid on" />
       <item value="right on" />
       <item value="starve" />
-      <item value="grab some grab" />
-      <item value="grave" />
-      <item value="gravy" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +131,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1137" />
+        <entry key="CHINESE" value="1140" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1138" />
+        <entry key="ENGLISH" value="1141" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FRENCH" value="5" />
