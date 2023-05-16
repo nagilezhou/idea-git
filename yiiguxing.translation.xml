@@ -72,6 +72,11 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="embrace" />
+      <item value="掌握" />
+      <item value="擅长" />
+      <item value="prize" />
+      <item value="outline" />
       <item value="slide" />
       <item value="slides" />
       <item value="wealth" />
@@ -117,11 +122,6 @@
       <item value="consed" />
       <item value="despot" />
       <item value="autocratic" />
-      <item value="autocracy" />
-      <item value="独裁" />
-      <item value="trick" />
-      <item value="track" />
-      <item value="deceit" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +131,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1170" />
+        <entry key="CHINESE" value="1174" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1171" />
+        <entry key="ENGLISH" value="1175" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FRENCH" value="5" />
