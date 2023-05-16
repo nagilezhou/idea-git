@@ -67,11 +67,22 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="247" />
-    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="445" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="加价" />
+      <item value="hitting charges" />
+      <item value="hands-ide" />
+      <item value="activate" />
+      <item value="激活行用卡" />
+      <item value="activated" />
+      <item value="active" />
+      <item value="away" />
+      <item value="blow someone's away" />
+      <item value="encourage" />
+      <item value="through" />
+      <item value="think it through" />
       <item value="board" />
       <item value="take on board" />
       <item value="take aboard" />
@@ -110,18 +121,6 @@
       <item value="hit the supermarket" />
       <item value="go skiing" />
       <item value="coll" />
-      <item value="cool" />
-      <item value="gaggle" />
-      <item value="google" />
-      <item value="binding" />
-      <item value="binging" />
-      <item value="fresh" />
-      <item value="fresh powder" />
-      <item value="powder" />
-      <item value="fresh ponder" />
-      <item value="appreciate" />
-      <item value="former" />
-      <item value="hug" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +130,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1183" />
+        <entry key="CHINESE" value="1196" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1184" />
+        <entry key="ENGLISH" value="1196" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FRENCH" value="5" />
