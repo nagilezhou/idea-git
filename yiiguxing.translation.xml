@@ -72,6 +72,13 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="club" />
+      <item value="高尔夫球杆" />
+      <item value="tale" />
+      <item value="tole" />
+      <item value="粉丝" />
+      <item value="course" />
+      <item value="golf course" />
       <item value="next master" />
       <item value="master" />
       <item value="minister" />
@@ -115,13 +122,6 @@
       <item value="groove" />
       <item value="borden" />
       <item value="lay off" />
-      <item value="fire" />
-      <item value="fair" />
-      <item value="redundancy" />
-      <item value="jobless" />
-      <item value="hard earned" />
-      <item value="不能吃" />
-      <item value="难吃" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +131,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1306" />
+        <entry key="CHINESE" value="1310" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1307" />
+        <entry key="ENGLISH" value="1311" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="1" />
@@ -154,7 +154,7 @@
         <entry key="PORTUGUESE" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="SLOVENIAN" value="1" />
+        <entry key="SLOVENIAN" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="SWEDISH" value="3" />
         <entry key="UZBEK" value="3" />
