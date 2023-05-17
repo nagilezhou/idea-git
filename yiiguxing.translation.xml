@@ -72,6 +72,15 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="next master" />
+      <item value="master" />
+      <item value="minister" />
+      <item value="成绩" />
+      <item value="greed" />
+      <item value="worth" />
+      <item value="价值" />
+      <item value="wealth" />
+      <item value="credits" />
       <item value="settle down" />
       <item value="break up" />
       <item value="candy" />
@@ -113,15 +122,6 @@
       <item value="hard earned" />
       <item value="不能吃" />
       <item value="难吃" />
-      <item value="难以下咽" />
-      <item value="overcooked" />
-      <item value="rubbery" />
-      <item value="橡胶" />
-      <item value="until then" />
-      <item value="dog bag" />
-      <item value="runny" />
-      <item value="keep away" />
-      <item value="保持距离" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +131,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1299" />
+        <entry key="CHINESE" value="1306" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1300" />
+        <entry key="ENGLISH" value="1307" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="1" />
