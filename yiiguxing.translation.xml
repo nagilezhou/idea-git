@@ -71,6 +71,7 @@
     <option name="newTranslationDialogX" value="770" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="groove" />
       <item value="borden" />
       <item value="lay off" />
       <item value="fire" />
@@ -120,7 +121,6 @@
       <item value="wateriness" />
       <item value="wait" />
       <item value="waiter" />
-      <item value="how as" />
     </histories>
     <option name="languageScores">
       <map>
