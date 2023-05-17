@@ -72,6 +72,15 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="卡住" />
+      <item value="stock" />
+      <item value="rand over" />
+      <item value="running late" />
+      <item value="accident" />
+      <item value="rope" />
+      <item value="tied up with traffic" />
+      <item value="tied up" />
+      <item value="堵塞" />
       <item value="blockade" />
       <item value="shut off" />
       <item value="冲马桶" />
@@ -113,15 +122,6 @@
       <item value="master" />
       <item value="minister" />
       <item value="成绩" />
-      <item value="greed" />
-      <item value="worth" />
-      <item value="价值" />
-      <item value="wealth" />
-      <item value="credits" />
-      <item value="settle down" />
-      <item value="break up" />
-      <item value="candy" />
-      <item value="deserve" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +131,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1335" />
+        <entry key="CHINESE" value="1343" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1336" />
+        <entry key="ENGLISH" value="1343" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="1" />
