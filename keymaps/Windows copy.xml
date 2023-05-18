@@ -1,10 +1,19 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="$TranslateAndReplaceAction" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CollapseSelection" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorSelectWord" />
+  <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
@@ -12,6 +21,7 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="SmartSelect" />
+  <action id="Space.Review.CreateDiffComment" />
   <action id="TableResult.GrowSelection" />
   <action id="UsageFiltering.WriteAccess" />
 </keymap>
