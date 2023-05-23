@@ -72,6 +72,19 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fresh" />
+      <item value="scumbag" />
+      <item value="lining up" />
+      <item value="In a couple of months, this baby is gonna be wicked!" />
+      <item value="wicked" />
+      <item value="Psych" />
+      <item value="don't have a cow!" />
+      <item value="When I do the nasty with the prom queen, we'll see who has the last laugh." />
+      <item value="you totally fell for it" />
+      <item value="Word" />
+      <item value="Isn't it bad to the bone?" />
+      <item value="dweeb" />
+      <item value="Check it out" />
       <item value="harsh" />
       <item value="fresh ride" />
       <item value="dude" />
@@ -109,19 +122,6 @@
       <item value="water fluid" />
       <item value="液体" />
       <item value="plumber" />
-      <item value="水工" />
-      <item value="pipe" />
-      <item value="水管" />
-      <item value="pips" />
-      <item value="Returns a view of the portion of this list between the specified fromIndex, inclusive, and toIndex, exclusive." />
-      <item value="swing" />
-      <item value="hole in ess" />
-      <item value="hole in ass" />
-      <item value="ass" />
-      <item value="hole in one" />
-      <item value="hole" />
-      <item value="hole in wine" />
-      <item value="club" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +131,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1351" />
+        <entry key="CHINESE" value="1365" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1352" />
+        <entry key="ENGLISH" value="1366" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="1" />
