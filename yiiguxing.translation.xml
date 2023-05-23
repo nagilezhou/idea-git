@@ -72,6 +72,18 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="phony" />
+      <item value="poney" />
+      <item value="pass the buck" />
+      <item value="pretty much" />
+      <item value="essentially" />
+      <item value="fairly" />
+      <item value="sort of" />
+      <item value="sham" />
+      <item value="rationalize" />
+      <item value="glitch" />
+      <item value="偏差" />
+      <item value="error" />
       <item value="significant" />
       <item value="pond" />
       <item value="pounding headache" />
@@ -110,18 +122,6 @@
       <item value="running late" />
       <item value="accident" />
       <item value="rope" />
-      <item value="tied up with traffic" />
-      <item value="tied up" />
-      <item value="堵塞" />
-      <item value="blockade" />
-      <item value="shut off" />
-      <item value="冲马桶" />
-      <item value="flash" />
-      <item value="flash something down in toilet" />
-      <item value="fall" />
-      <item value="fell" />
-      <item value="felling" />
-      <item value="falling apart" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,15 +131,15 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1374" />
+        <entry key="CHINESE" value="1387" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1375" />
+        <entry key="ENGLISH" value="1388" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="1" />
-        <entry key="FRENCH" value="5" />
+        <entry key="FRENCH" value="6" />
         <entry key="GERMAN" value="1" />
         <entry key="HAITIAN_CREOLE" value="2" />
         <entry key="HAUSA" value="1" />
