@@ -72,6 +72,7 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="significant" />
       <item value="pond" />
       <item value="pounding headache" />
       <item value="pounding" />
@@ -121,7 +122,6 @@
       <item value="fell" />
       <item value="felling" />
       <item value="falling apart" />
-      <item value="felling apart" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +131,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1373" />
+        <entry key="CHINESE" value="1374" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1374" />
+        <entry key="ENGLISH" value="1375" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="1" />
