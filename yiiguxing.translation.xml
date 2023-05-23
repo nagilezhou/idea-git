@@ -63,7 +63,7 @@
     <option name="lastTrimTime" value="1641453936181" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684115094474" />
+    <option name="lastTrimTime" value="1684809002909" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="247" />
@@ -72,6 +72,12 @@
     <option name="newTranslationDialogY" value="445" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="butt ugly" />
+      <item value="屁股" />
+      <item value="loaded" />
+      <item value="ride" />
+      <item value="tight" />
+      <item value="tight up" />
       <item value="BOOTABLE" />
       <item value="卡住" />
       <item value="stock" />
@@ -116,12 +122,6 @@
       <item value="高尔夫球杆" />
       <item value="tale" />
       <item value="tole" />
-      <item value="粉丝" />
-      <item value="course" />
-      <item value="golf course" />
-      <item value="next master" />
-      <item value="master" />
-      <item value="minister" />
     </histories>
     <option name="languageScores">
       <map>
@@ -131,11 +131,11 @@
         <entry key="CATALAN" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="CHICHEWA" value="1" />
-        <entry key="CHINESE" value="1343" />
+        <entry key="CHINESE" value="1348" />
         <entry key="CORSICAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="1344" />
+        <entry key="ENGLISH" value="1349" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FILIPINO" value="3" />
         <entry key="FINNISH" value="1" />
